@@ -5,7 +5,7 @@ corresponding to these sequences in the folders provided.
 
 ProtRhythmMusic programs translate the amino acid sequence (AA) of a
 protein to Rhythm, according to the type of group in which each class of amino acid 
-is classified according to its group R.
+is classified according to its R-group.
 
 As there are different classifications I have chosen to make several programs
 attending to each classification used, assigning a single sound to each
