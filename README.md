@@ -49,6 +49,7 @@ the Kyoto Encyclopedia of Genes and Genomes (KEGG) in its "KEGG BRITE Database"
 (https://www.genome.jp/kegg/brite.html) which I found more interesting and appropriate 
 than a simple list of genes and proteins.
 
+Today, July/01/2020, I finished this human protein rhythm catalog.
 ________________________________________________________________________________________________
 
 LEEME.txt
@@ -103,4 +104,4 @@ proporcionada por la Kyoto Encyclopedia of Genes and Genomes (KEGG) en su
 "KEGG BRITE Database" (https://www.genome.jp/kegg/brite.html)
 que me ha parecido más interesante y adecuada que una lista simple de genes y proteinas.
 
-
+En el dia de hoy, 01-Julio-2020 he terminado esta catalogo de los ritmos de proteinas humanas.
